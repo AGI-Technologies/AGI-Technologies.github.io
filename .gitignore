@@ -1,0 +1,9 @@
+# JetBrains IDEs (IntelliJ, WebStorm, etc.)
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
